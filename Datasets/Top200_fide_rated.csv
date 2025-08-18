@@ -1,0 +1,201 @@
+Number,Name,ELO,Title,FIDE Id,Federation,Games,Birth Year
+1,Magnus Carlsen,2839,GM,1503014,Norway,3818,1990
+2,Hikaru Nakamura,2807,GM,2016192,United States,3605,1987
+3,Fabiano Caruana,2784,GM,2020009,United States,3295,1992
+4,Praggnanandhaa R,2779,GM,25059530,India,1131,2005
+5,Erigaisi Arjun,2776,GM,35009192,India,1107,2003
+6,Gukesh D,2776,GM,46616543,India,1151,2006
+7,Nodirbek Abdusattorov,2771,GM,14204118,Uzbekistan,1295,2004
+8,Alireza Firouzja,2766,GM,12573981,France,1425,2003
+9,Yi Wei,2753,GM,8603405,China,1222,1999
+10,Anish Giri,2748,GM,24116068,Netherlands,2707,1994
+11,Shakhriyar Mamedyarov,2746,GM,13401319,Azerbaijan,3452,1985
+12,Wesley So,2745,GM,5202213,United States,2487,1993
+13,Viswanathan Anand,2743,GM,5000017,India,4036,1969
+14,Ian Nepomniachtchi,2742,GM,4168119,Russian Federation,2827,1990
+15,Leinier Dominguez Perez,2738,GM,3503240,United States,1579,1983
+16,Levon Aronian,2737,GM,13300474,United States,3836,1982
+17,Hans Moke Niemann,2736,GM,2093596,United States,1045,2003
+18,Maxime Vachier Lagrave,2736,GM,623539,France,3518,1990
+19,Liren Ding,2734,GM,8603677,China,1770,1992
+20,Vladimir Fedoseev,2731,GM,24130737,Slovenia,1910,1995
+21,Vincent Keymer,2730,GM,12940690,Germany,895,2004
+22,Quang Liem Le,2729,GM,12401137,Viet Nam,1897,1991
+23,Jan Krzysztof Duda,2725,GM,1170546,Poland,1616,1998
+24,Chithambaram VR Aravindh,2723,GM,5072786,India,899,1999
+25,Javokhir Sindarov,2722,GM,14205483,Uzbekistan,835,2005
+26,Santosh Gujrathi Vidit,2720,GM,5029465,India,1583,1994
+27,Veselin Topalov,2717,GM,2900084,Bulgaria,2467,1975
+28,Richard Rapport,2716,GM,738590,Hungary,1666,1996
+29,Yangyi Yu,2714,GM,8603820,China,1805,1994
+30,Pentala Harikrishna,2709,GM,5007003,India,2467,1986
+31,Hao Wang,2698,GM,8602883,China,1833,1989
+32,Jorden Van Foreest,2697,GM,1039784,Netherlands,1544,1999
+33,Awonder Liang,2696,GM,2056437,United States,564,2003
+34,Dmitry Andreikin,2695,GM,4158814,Fide,1674,1990
+35,Parham Maghsoodloo,2695,GM,12539929,Iran,1236,2000
+36,Nihal Sarin,2692,GM,25092340,India,1047,2004
+37,Teimour Radjabov,2692,GM,13400924,Azerbaijan,2189,1987
+38,Daniil Dubov,2691,GM,24126055,Russian Federation,1909,1996
+39,Alexey Sarana,2691,GM,24133795,Serbia,1385,2000
+40,Ray Robson,2687,GM,2023970,United States,935,1994
+41,Xiangzhi Bu,2684,GM,8601445,China,1756,1985
+42,Samuel Sevian,2683,GM,2040506,United States,909,2000
+43,Andrey Esipenko,2682,GM,24175439,Russian Federation,1340,2002
+44,Peter Svidler,2682,GM,4102142,Fide,3380,1976
+45,Pavel Eljanov,2680,GM,14102951,Ukraine,1879,1983
+46,Volodar Murzin,2678,GM,44155573,Fide,972,2006
+47,Igor Kovalenko,2676,GM,14117908,Ukraine,1253,1988
+48,Raunak Sadhwani,2676,GM,35093487,India,900,2005
+49,Nikita Vitiugov,2676,GM,4152956,United Kingdom,1911,1987
+50,Rustam Kasimdzhanov,2675,GM,14200244,Uzbekistan,1619,1979
+51,Bogdan-Daniel Deac,2674,GM,1226380,Romania,1030,2001
+52,Thai Dai Van Nguyen,2674,GM,358878,Czech Republic,1032,2001
+53,M. Amin Tabatabaei,2673,GM,12521213,Iran,999,2001
+54,Sam Shankland,2670,GM,2004887,United States,1269,1991
+55,David W L Howell,2668,GM,410608,United Kingdom,1696,1990
+56,Alexander Grischuk,2667,GM,4126025,Russian Federation,3563,1983
+57,Peter Leko,2666,GM,703303,Hungary,2533,1979
+58,Vladislav Artemiev,2664,GM,24101605,Russian Federation,1816,1998
+59,Michael Adams,2663,GM,400041,United Kingdom,3232,1971
+60,Nodirbek Yakubboev,2663,GM,14203987,Uzbekistan,787,2002
+61,Aleksandar Indjic,2661,GM,911925,Serbia,1320,1995
+62,Ivan Saric,2661,GM,14508150,Croatia,2076,1990
+63,Matthias Bluebaum,2660,GM,24651516,Germany,1422,1997
+64,Grigoriy Oparin,2660,GM,24125890,United States,1174,1997
+65,Rauf Mamedov,2659,GM,13401653,Azerbaijan,2263,1988
+66,Murali Karthikeyan,2658,GM,5074452,India,922,1999
+67,Jonas Buhl Bjerre,2655,GM,1444948,Denmark,681,2004
+68,Shant Sargsyan,2653,GM,13306766,Armenia,835,2002
+69,Kirill Shevchenko,2653,GM,14129574,Romania,841,2002
+70,Kirill Alekseenko,2652,GM,4135539,Austria,1022,1997
+71,Boris Gelfand,2652,GM,2805677,Israel,3566,1968
+72,Ediz Gurel,2652,GM,44507356,Turkey,351,2008
+73,Johan-Sebastian Christiansen,2651,GM,1512668,Norway,816,1998
+74,Gawain C B Maroroa Jones,2651,GM,409561,United Kingdom,1624,1987
+75,Frederik Svane,2651,GM,12923044,Germany,476,2004
+76,Alexander Morozevich,2650,GM,4116992,Russian Federation,2370,1977
+77,David Navara,2650,GM,309095,Czech Republic,2916,1985
+78,Jeffery Xiong,2650,GM,2047640,United States,907,2000
+79,Benjamin Gledura,2648,GM,712779,Hungary,706,1999
+80,Radoslaw Wojtaszek,2648,GM,1118358,Poland,2421,1987
+81,Shanglei Lu,2647,GM,8603332,China,1044,1995
+82,Daniil Yuffa,2647,GM,24131423,Spain,1286,1997
+83,Nikolas Theodorou,2646,GM,4262875,Greece,503,2000
+84,Maxim Rodshtein,2645,GM,2806851,Israel,1373,1989
+85,Shamsiddin Vokhidov,2645,GM,14204223,Uzbekistan,803,2002
+86,Dmitrij Kollars,2644,GM,12909572,Germany,783,1999
+87,Vladimir Malakhov,2643,GM,4120787,Fide,1943,1980
+88,Yagiz Kaan Erdogmus,2642,GM,44599790,Turkey,291,2011
+89,AR Saleh Salem,2640,GM,9301348,United Arab Emirates,1289,1993
+90,Francisco Vallejo Pons,2640,GM,2205530,Spain,2484,1982
+91,Nils Grandelius,2639,GM,1710400,Sweden,1582,1993
+92,Jose Eduardo Martinez Alcantara,2636,GM,3805662,Mexico,364,1999
+93,Sanan Sjugirov,2636,GM,4189302,Hungary,1865,1993
+94,Etienne Bacrot,2635,GM,605506,France,2889,1983
+95,Velimir Ivic,2635,GM,950122,Serbia,705,2002
+96,Abhimanyu Puranik,2635,GM,5061245,India,880,2000
+97,Aryan Chopra,2634,GM,5084423,India,509,2001
+98,Bassem Amin,2633,GM,10601457,Egypt,1409,1988
+99,Yuriy Kryvoruchko,2633,GM,14109182,Ukraine,1251,1986
+100,Loek Van Wely,2632,GM,1000268,Netherlands,3842,1972
+101,Eltaj Safarli,2630,GM,13402129,Azerbaijan,1715,1992
+102,Robert Hovhannisyan,2629,GM,13302507,Armenia,1039,1991
+103,Maksim Chigaev,2628,GM,4108116,Spain,1448,1996
+104,Anton Korobov,2628,GM,14105730,Ukraine,2484,1985
+105,Haik M Martirosyan,2628,GM,13306553,Armenia,930,2000
+106,Andrei Volokitin,2628,GM,14107090,Ukraine,1846,1986
+107,Aryan Tari,2627,GM,1510045,Norway,1253,1999
+108,Yue Wang,2627,GM,8601429,China,1458,1987
+109,Luka Lenic,2626,GM,14603853,Slovenia,1173,1988
+110,Gabriel Sargissian,2626,GM,13300881,Armenia,1814,1983
+111,David Anton Guijarro,2625,GM,2285525,Spain,1547,1995
+112,Ivan Cheparinov,2625,GM,2905540,Bulgaria,2343,1986
+113,Bardiya Daneshvar,2625,GM,12576468,Iran,505,2006
+114,Aram Hakobyan,2625,GM,13306677,Armenia,698,2001
+115,Chao b Li,2624,GM,8604436,China,957,1989
+116,Vassily Ivanchuk,2623,GM,14100010,Ukraine,4273,1969
+117,Ioannis Papaioannou,2623,GM,4201345,Greece,691,1976
+118,Ruslan Ponomariov,2622,GM,14103320,Ukraine,2273,1983
+119,Anton Demchenko,2620,GM,4160258,Slovenia,1065,1987
+120,Alexei Shirov,2620,GM,2209390,Spain,3734,1972
+121,Rasmus Svane,2619,GM,4657101,Germany,1362,1997
+122,Jon Ludvig Hammer,2618,GM,1503707,Norway,1045,1990
+123,Peter Heine Nielsen,2617,GM,1400355,Denmark,1892,1973
+124,Alexandr Predke,2617,GM,24107581,Serbia,1222,1994
+125,Dennis Wagner,2617,GM,24650684,Germany,794,1997
+126,Daniel Dardha,2616,GM,240990,Belgium,936,2005
+127,Alexander Donchenko,2616,GM,24603295,Germany,1695,1998
+128,Maxime Lagarde,2616,GM,662399,France,1147,1994
+129,Luke J McShane,2615,GM,404853,United Kingdom,1663,1984
+130,Jaime Santos Latasa,2614,GM,2293307,Spain,894,1996
+131,Tamir Nabaty,2613,GM,2809052,Israel,695,1991
+132,Evgeniy Najer,2613,GM,4118987,Fide,2216,1977
+133,Vasif Durarbayli,2612,GM,13402935,Azerbaijan,780,1992
+134,Alexander Riazantsev,2612,GM,4125029,Russian Federation,2248,1985
+135,Xiangyu Xu,2612,GM,8608288,China,684,1999
+136,Erwin L'Ami,2611,GM,1007998,Netherlands,1152,1985
+137,Samvel Ter Sahakyan,2611,GM,13302531,Armenia,1218,1993
+138,Qun Ma,2610,GM,8603154,China,503,1991
+139,Abhimanyu Mishra,2610,GM,30920019,United States,508,2009
+140,Ivan Popov,2610,GM,4170350,Russian Federation,1259,1990
+141,Imre Balog,2609,GM,728446,Hungary,390,1991
+142,Eric Hansen,2609,GM,2606771,Canada,599,1992
+143,Yifan Hou,2609,GM,8602980,China,1604,1994
+144,Aydin Suleymanli,2609,GM,13413937,Azerbaijan,804,2005
+145,Maxim Matlakov,2608,GM,4168003,Russian Federation,1942,1991
+146,Volodymyr Onyshchuk,2607,GM,14114038,Ukraine,1131,1991
+147,Christopher Woojin Yoo,2607,GM,30909694,United States,443,2006
+148,Gata Kamsky,2606,GM,2000024,France,2275,1974
+149,Leon Luke Mendonca,2606,GM,35028561,India,833,2006
+150,Tamas Banusz,2605,GM,722413,Hungary,1438,1989
+151,Laurent Fressinet,2605,GM,608742,France,2544,1981
+152,Ferenc Berkes,2604,GM,718572,Hungary,1802,1985
+153,Marc Andria Maurizzi,2607,GM,36083534,France,482,2007
+154,Arkadij Naiditsch,2604,GM,4650891,Bulgaria,2587,1985
+155,Arseniy Nesterov,2604,GM,24198455,Fide,747,2003
+156,Victor Bologan,2601,GM,13900048,Moldova,2669,1971
+157,Olexandr Bortnyk,2601,GM,14120828,Ukraine,401,1996
+158,Yuriy Kuzubov,2600,GM,14112906,Ukraine,1613,1990
+159,Sergei Movsesian,2600,GM,310204,Armenia,2810,1978
+160,Ngoc Truong Son Nguyen,2600,GM,12401110,Viet Nam,1064,1990
+161,Weiqi Zhou,2600,GM,8601674,China,664,1986
+162,Jorge Cori,2599,GM,3802272,Peru,547,1995
+163,Emil Sutovsky,2599,GM,2802007,Israel,1808,1977
+164,Alexander Areshchenko,2598,GM,14109530,Ukraine,1375,1986
+165,Baadur Jobava,2598,GM,13601520,Georgia,2113,1983
+166,Tuan Minh Le,2598,GM,12401153,Viet Nam,212,1996
+167,V Pranav,2597,GM,25060783,India,563,2006
+168,Bobby Cheng,2596,GM,4300033,Australia,364,1997
+169,Rafael Leitao,2596,GM,2101246,Brazil,1198,1979
+170,Georg Meier,2596,GM,4675789,Uruguay,1438,1987
+171,Miguel Santos Ruiz,2596,GM,22291482,Spain,605,1999
+172,Aleksey Grebnev,2595,GM,34189030,Fide,373,2006
+173,Semen Khanin,2595,GM,4111990,Fide,598,1999
+174,Alexander Motylev,2595,GM,4121830,Romania,2195,1979
+175,Narayanan.S.L,2595,GM,5058422,India,973,1998
+176,David Baramidze,2594,GM,4667719,Germany,1123,1988
+177,Ante Brkic,2594,GM,14506688,Croatia,1853,1988
+178,Miguel Illescas Cordoba,2594,GM,2200015,Spain,1423,1965
+179,Brandon Jacobson,2594,GM,30901561,United States,556,2003
+180,Tomi Nyback,2594,GM,503142,Finland,1380,1985
+181,Mikhail Al. Antipov,2593,GM,4107012,United States,1299,1997
+182,Pouya Idani,2593,GM,12510130,Iran,807,1995
+183,Ivan Salgado Lopez,2593,GM,2257327,Spain,1165,1991
+184,Cristobal Henriquez Villagra,2592,GM,3409350,Chile,482,1996
+185,Szymon Gumularz,2591,GM,1188062,Poland,735,2001
+186,Jan Gustafsson,2591,GM,4625498,Germany,1483,1979
+187,Niclas Huschenbeth,2591,GM,24604747,Germany,897,1992
+188,Max Warmerdam,2591,GM,1048104,Netherlands,707,2000
+189,Anand Pranav,2590,GM,46626786,India,464,2006
+190,Ivan Sokolov,2590,GM,14400030,Netherlands,2871,1968
+191,Ahmed Adly,2589,GM,10601619,Egypt,1052,1987
+192,Fabian Doettling,2589,GM,4627253,Germany,691,1980
+193,M Pranesh,2589,GM,35028600,India,319,2006
+194,Benjamin Bok,2587,GM,1017063,Netherlands,1176,1995
+195,Nigel D Short,2587,GM,400025,United Kingdom,2901,1965
+196,Boris Grachev,2586,GM,4129199,Russian Federation,1933,1986
+197,Pa Iniyan,2586,GM,25002767,India,682,2002
+198,Adam Kozak,2586,GM,753246,Hungary,932,2002
+199,Mahammad Muradli,2586,GM,13409301,Azerbaijan,723,2003
+200,Pavel Ponkratov,2586,GM,4157800,Russian Federation,1915,1988
