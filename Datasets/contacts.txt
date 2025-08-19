@@ -1,14 +1,20 @@
-1. John called on 12-05-2023 using phone +1-202-555-0198.  
-2. Maria registered on 03/11/2021 with number (415) 555-2671.  
-3. Order placed by David at 2023-07-14, contact: 9876543210.  
-4. Meeting scheduled on 15-Aug-2022, reach out: +44 7700 900123.  
-5. Priya’s ticket confirmed on 21.09.2020, phone: 080-12345678.  
-6. Invoice generated for Alex on 2022/10/05, mobile: 99999-88888.  
-7. Appointment on Dec 05, 2021, contact via 123-456-7890.  
-8. Rahul updated profile on 17/03/2023, phone: +91-98765-43210.  
-9. Sarah joined on 2001-04-30, call at (212)555-3456.  
-10. Payment received 25-12-2019, contact: 001-541-754-3010.  
-11. Emily’s subscription started on 2023/01/15, phone: +1 (650) 555-1234.
-12. Daniel’s query logged on 2022-11-30, reach him at 555-0123.
-13. Jessica’s feedback received on 2023-02-20, contact: (415) 555-7890.
-14. Kevin’s issue reported on 2023-03-15, phone: +1-202-555-0199.
+John Doe met Jane Smith on 2023-05-14, contact: 555-123-4567.
+Emily called Mark at (555) 987-6543 on 12/11/2022.
+Meeting scheduled for 2022-08-30, contact: alice@example.com.
+Call Sarah at 555.321.7654 before 01/01/2024.
+Appointment with Dr. Brown on March 3, 2023, phone: 555-654-3210.
+Email sent to mike@domain.com on 2021-07-22.
+Lisa's number is 555-000-1111, met her on 10-10-2020.
+Dinner with Tom at tom@workmail.com on 2022/09/15.
+Contact Anna (anna.smith@mail.com) before 2023-12-31.
+Project deadline: 2024-04-01, manager: 555-222-3333.
+Meeting with Bob on 15th June 2022, phone: (555) 444-5555.
+Send report to claire@company.org by 2023-03-10.
+Interview on 2022-11-05, HR: 555-666-7777.
+Lunch with Greg at greg@personal.net on 09/09/2021.
+Call office at 5551238888 on 2023-08-20.
+Reminder: 2021-12-25, contact: mary.jane@service.com.
+Conference on 2022/07/18, RSVP: 555.888.9999.
+Email invitation to paul@invite.com before 2022-10-01.
+Workshop on 2023-02-14, coordinator: (555) 777-8888.
+Contact support at support@helpdesk.com on 2024-01-05.
