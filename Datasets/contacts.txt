@@ -2,13 +2,11 @@ John Doe met Jane Smith on 2023-05-14, contact: 555-123-4567.
 Emily called Mark at (555) 987-6543 on 12/11/2022.
 Meeting scheduled for 2022-08-30, contact: alice@example.com.
 Call Sarah at 555.321.7654 before 01/01/2024.
-Appointment with Dr. Brown on March 3, 2023, phone: 555-654-3210.
 Email sent to mike@domain.com on 2021-07-22.
 Lisa's number is 555-000-1111, met her on 10-10-2020.
 Dinner with Tom at tom@workmail.com on 2022/09/15.
 Contact Anna (anna.smith@mail.com) before 2023-12-31.
 Project deadline: 2024-04-01, manager: 555-222-3333.
-Meeting with Bob on 15th June 2022, phone: (555) 444-5555.
 Send report to claire@company.org by 2023-03-10.
 Interview on 2022-11-05, HR: 555-666-7777.
 Lunch with Greg at greg@personal.net on 09/09/2021.
